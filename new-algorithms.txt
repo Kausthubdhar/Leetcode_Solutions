@@ -1,5 +1,5 @@
 #1 " Dutch National Flag algorithm " (DNF algorithm)!
----> Basically using for sorting 0,1,2 in a array in O(n) time!! <-----
+---> Basically used for sorting 0,1,2 in a array in O(n) time!! <-----
 
 #2 " Moore's algorithm "
 ---> This algorithm finds the majority element in an array (majority element is an element that appears more than ⌊n / 2⌋ times.)  <---
